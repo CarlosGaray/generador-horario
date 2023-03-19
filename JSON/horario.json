@@ -1,0 +1,5440 @@
+{
+    "GoogleSheetData": [
+        {
+            "Ciclo": 1,
+            "Codigo": "BFI01",
+            "Nombre": "FÍSICA I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "PAB R",
+                        "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "PAB R",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "CARO AMERY. JOSE"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "CARO AMERY. JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "PAB R",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "PAB R",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "PAB R",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 1,
+            "Codigo": "BIC01",
+            "Nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "13:00-14:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VILLANUEVA, UWE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VILLANUEVA, UWE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-15:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-15:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-11:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "11:00-13:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-9:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "PURILLA FLORES, FELIX"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "9:00-11:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "PURILLA FLORES, FELIX"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 1,
+            "Codigo": "BMA01",
+            "Nombre": "CALCULO DIFERENCIAL",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "SAAL RIQUEROS, CESAR"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "SAAL RIQUEROS, CESAR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "SAAL RIQUEROS, CESAR"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "ORIA CHAVARRIA, MARIO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "ORIA CHAVARRIA, MARIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ORIA CHAVARRIA, MARIO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "CORNEJO HUAMAN, JORGE"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "CORNEJO HUAMAN, JORGE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "CORNEJO HUAMAN, JORGE"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 1,
+            "Codigo": "BMA03",
+            "Nombre": "ALGEBRA LINEAL",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q3-204",
+                        "Profesor": "SALINAS AQUIJE, TEOFILO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "SALINAS AQUIJE, TEOFILO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "15:00-18:00",
+                        "Aula": "Q3-204",
+                        "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 1,
+            "Codigo": "BRN01",
+            "Nombre": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 1,
+            "Codigo": "EE250",
+            "Nombre": "DIBUJO TÉCNICO",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "13:00-15:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "0:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "13:00-15:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALMORA RIVAS, ENRIQUE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 2,
+            "Codigo": "BFI05",
+            "Nombre": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "NN"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 2,
+            "Codigo": "BMA02",
+            "Nombre": "CÁLCULO INTEGRAL",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "ORIA CHAVARRIA, MARIO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "ORIA CHAVARRIA, MARIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "ORIA CHAVARRIA, MARIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "SALINAS AQUIJE, TEOFILO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "SALINAS AQUIJE, TEOFILO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "SALINAS AQUIJE, TEOFILO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 2,
+            "Codigo": "BMA09",
+            "Nombre": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "9:00-11:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BUTLER BLACKER, JORGE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "11:00-13:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BUTLER BLACKER, JORGE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "9:00-11:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BUTLER BLACKER, JORGE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BUTLER BLACKER, JORGE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BUTLER BLACKER, JORGE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BUTLER BLACKER, JORGE"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BENITEZ PALACIOS, JOSE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BENITEZ PALACIOS, JOSE"
+                    }
+                ],
+                "R": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
+                    }
+                ],
+                "S": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 2,
+            "Codigo": "BQU01",
+            "Nombre": "QUÍMICA I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "RODRIGUEZ MORALES, MARIA"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "RODRIGUEZ MORALES, MARIA"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "GARAY CAUTI, ZOILA / MEDINA, RAQUEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB QUIM",
+                        "Profesor": "MEDINA RODRIGUEZ, RAQUEL / GARAY, ZOILA"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA RAQUEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB QUIM",
+                        "Profesor": "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "RODRIGUEZ MORALES, MARIA"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "RODRIGUEZ MORALES, MARIA"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "RODRIGUEZ MORALES, MARIA / GARAY, ZOILA"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB QUIM",
+                        "Profesor": "GARAY CAUTI, ZOILA / RODRIGUEZ, MARIA"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 2,
+            "Codigo": "BRC01",
+            "Nombre": "REDACCION Y COMUNICACION",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "16:00-17:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "17:00-19:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-17:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "17:00-19:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-17:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "17:00-19:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 2,
+            "Codigo": "EE152",
+            "Nombre": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-15:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BRICEÑO ARANDA, CESAR"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BRICEÑO ARANDA, CESAR"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BRICEÑO ARANDA, CESAR"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "11:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "PURILLA FLORES, FELIX"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "PURILLA FLORES, FELIX"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "PURILLA FLORES, FELIX"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-11:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "11:00-13:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "17:00-19:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VARGAS, CAROLYN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 3,
+            "Codigo": "BEG01",
+            "Nombre": "ECONOMÍA GENERAL",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "VERA RONCALLA, CESAR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "VERA RONCALLA, CESAR"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "HUMALA TASSO, ULISES"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "HUMALA TASSO, ULISES"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "CLAVIJO RAMOS, RAUL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "CLAVIJO RAMOS, RAUL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 3,
+            "Codigo": "BFI03",
+            "Nombre": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "PAB R",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "PAB R",
+                        "Profesor": "DURAND BERNALD, LUIS"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "WATERS TORRES, OSWALDO"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "WATERS TORRES, OSWALDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "QUIJADA ORELLANA, SAMUEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "PAB R",
+                        "Profesor": "QUIJADA ORELLANA, SAMUEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "PAB R",
+                        "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 3,
+            "Codigo": "BMA05",
+            "Nombre": "ECUACIONES DIFERENCIALES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "CALLA MARIN, CARLOS"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "CALLA MARIN, CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "CALLA MARIN, CARLOS"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "CORNEJO HUAMAN, JORGE"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "CORNEJO HUAMAN, JORGE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "CORNEJO HUAMAN, JORGE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 3,
+            "Codigo": "BMA10",
+            "Nombre": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+                    },
+                    {
+                        "Tipo": "S",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+                    },
+                    {
+                        "Tipo": "S",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 3,
+            "Codigo": "BMA15",
+            "Nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CASTILLO BELSUZARRI, TRINI"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CASTILLO BELSUZARRI, TRINI"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CASTILLO BELSUZARRI, TRINI"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CASTILLO BELSUZARRI, TRINI"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CASTILLO BELSUZARRI, TRINI"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CASTILLO BELSUZARRI, TRINI"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 3,
+            "Codigo": "EE306",
+            "Nombre": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "PUICAN VERA, JOSE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "PUICAN VERA, JOSE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "FALCON DOMINGUEZ, FLAVIO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "FALCON DOMINGUEZ, FLAVIO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "MANRIQUE ENCISO, JOSE MANUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "MANRIQUE ENCISO, JOSE MANUEL"
+                    }
+                ],
+                "R": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "FALCON DOMINGUEZ, FLAVIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "PUICAN VERA, JOSE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 4,
+            "Codigo": "BEF01",
+            "Nombre": "ETICA Y FILOSOFIA POLITICA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "ATARAMA URBINA, ANCO LUIS"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "ATARAMA URBINA, ANCO LUIS"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 4,
+            "Codigo": "BFI06",
+            "Nombre": "INTRODUCCION A LA FISICA MODERNA                                       ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "PAUYAC HUAMAN, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "PAUYAC HUAMAN, JOSE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "PAUYAC HUAMAN, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "QUIJADA ORELLANA, SAMUEL"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "LLAMOJA CURI, JOHNNY"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "CARO AMERY. JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 4,
+            "Codigo": "BMA07",
+            "Nombre": "CALCULO VECTORIAL                                                                                       ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "ROJAS CERNA, VICTOR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ROJAS CERNA, VICTOR"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "ARIAS ANTONIO, LEANDRO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "ARIAS ANTONIO, LEANDRO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "CALLA MARIN, CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 4,
+            "Codigo": "BMA18",
+            "Nombre": "METODOS NUMERICOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    },
+                    {
+                        "Tipo": "S",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "MIGUEL CAÑAMERO, JOSE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 4,
+            "Codigo": "EE320",
+            "Nombre": "CIRCUITOS ELECTRICOS I                                                                                   ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "RAMOS CARRION, JORGE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "RAMOS CARRION, JORGE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "RAMOS CARRION, JORGE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "NEGRON MARTINEZ, CONSUELO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "NEGRON MARTINEZ, CONSUELO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "NEGRON MARTINEZ, CONSUELO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-220",
+                        "Profesor": "WATERS TORRES, OSWALDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "WATERS TORRES, OSWALDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "WATERS TORRES, OSWALDO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "TOKUMORI KIYOTA, SERGIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "TOKUMORI KIYOTA, SERGIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "TOKUMORI KIYOTA, SERGIO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-220",
+                        "Profesor": "ROCHA JARA, ALFREDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "YACOLCA CRUZADO, Fidel Segundo"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "WATERS TORRES, OSWALDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 4,
+            "Codigo": "EE410",
+            "Nombre": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "DIAZ ACHA, ISRAEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "ROJAS CERNA, VICTOR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "NN"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "ARIAS ANTONIO, LEANDRO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "ARIAS ANTONIO, LEANDRO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "BFM16",
+            "Nombre": "MECANICA DE FLUIDOS Y TERMODINAMICA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "VELAZCO LORENZO, DINAU"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "VELAZCO LORENZO, DINAU"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "8:00-0:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "VELAZCO LORENZO, DINAU"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "VELAZCO LORENZO, DINAU"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "BMA22",
+            "Nombre": "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "VALENCIA MIRANDA, ANGEL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "EE418",
+            "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "LAZO OCHOA, DOMINGO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "LAZO OCHOA, DOMINGO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "LAZO OCHOA, DOMINGO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "LAZO OCHOA, DOMINGO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "LAZO OCHOA, DOMINGO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "EE420",
+            "Nombre": "CIRCUITOS ELECTRICOS II                                                                           ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "BETETTA GOMEZ, JUDITH"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "BETETTA GOMEZ, JUDITH"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "BETETTA GOMEZ, JUDITH"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "RAMOS CARRION, JORGE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "RAMOS CARRION, JORGE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "ROCHA JARA, ALFREDO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "BETETTA GOMEZ, JUDITH"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "YACOLCA CRUZADO, Fidel Segundo"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "BETETTA GOMEZ, JUDITH"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q3-203",
+                        "Profesor": "ROCHA JARA, ALFREDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "ROCHA JARA, ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "ROCHA JARA, ALFREDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "EE428",
+            "Nombre": "LABORATORIO DE ELECTRONICA I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ROMERO FUENTES, VIRGINIA"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ROMERO FUENTES, VIRGINIA"
+                    }
+                ],
+                "R": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "TOKUMORI KIYOTA, SERGIO"
+                    }
+                ],
+                "S": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "JIMENEZ HEREDIA ELADIO "
+                    }
+                ],
+                "T": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "TOKUMORI KIYOTA, SERGIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "EE522",
+            "Nombre": "ELECTROMAGNETISMO I                                                                               ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q3-202",
+                        "Profesor": "DELGADO LEON, MIGUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "DELGADO LEON, MIGUEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "PEÑA YALICO, VICENTE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "DELGADO LEON, MIGUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 5,
+            "Codigo": "EE647",
+            "Nombre": "SISTEMAS DE CONTROL I                                                                         ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "19:00-22:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "AQUIZE PALACIOS, RUBEN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "AQUIZE PALACIOS, RUBEN"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "MERCHAN GORDILLO, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q3-201",
+                        "Profesor": "MERCHAN GORDILLO, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CARBONEL OLAZABAL, DANIEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "MERCHAN GORDILLO, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "MERCHAN GORDILLO, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "BFM17",
+            "Nombre": "FUNDAMENTOS DE TURBOMAQUINAS                            ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "VELAZCO LORENZO, DINAU"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "VELAZCO LORENZO, DINAU"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE238",
+            "Nombre": "MEDIDAS ELECTRICAS I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "YANQUE TOMASEVICH, IVANKO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "11:00-13:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "YANQUE TOMASEVICH, IVANKO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE288",
+            "Nombre": "MÁQUINAS ELÉCTRICAS I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "CACERES CARDENAS, FELIX VICTOR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "CACERES CARDENAS, FELIX VICTOR"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE353",
+            "Nombre": "ANALISIS DE SISTEMAS DE POTENCIA I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "17:00-19:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "ÑAUPARI HUATUCO, DIONICIO ZOCIMO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE430",
+            "Nombre": "SISTEMAS DE COMUNICACIONES I ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "PERALTA ALFEREZ, FRANS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "JIMENEZ HEREDIA ELADIO "
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "ROMERO FUENTES, VIRGINIA"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "PERALTA ALFEREZ, FRANS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "JIMENEZ HEREDIA ELADIO "
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "ROMERO FUENTES, VIRGINIA"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "JIMENEZ HEREDIA ELADIO "
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "JIMENEZ HEREDIA ELADIO "
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE438",
+            "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "19:00-22:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "13:00-16:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "NUÑEZ CARRILLO, RICARDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE449",
+            "Nombre": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "ROMERO GOYTENDIA, LUIS MIGUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "ROMERO GOYTENDIA, LUIS MIGUEL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE458",
+            "Nombre": "LABORATORIO DE ELECTRONICA II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "FLORES ATOCHE, BEAU"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "FLORES ATOCHE, BEAU"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ROMERO FUENTES, VIRGINIA"
+                    }
+                ],
+                "R": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "NUÑEZ CARRILLO, RICARDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE588",
+            "Nombre": "ELECTROMAGNETISMO II                                                              ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q3-202",
+                        "Profesor": "DELGADO LEON, MIGUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "17:00-19:00",
+                        "Aula": "Q3-202",
+                        "Profesor": "DELGADO LEON, MIGUEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "11:00-14:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "CORDOVA BERNUY, VICTOR"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ALVAREZ MONTOYA, JUAN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "CORDOVA BERNUY, VICTOR"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "11:00- 14:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ALVAREZ MONTOYA, JUAN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "ALVAREZ MONTOYA, JUAN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE604",
+            "Nombre": "INTRODUCCION A MICROCONTROLADORES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "13:00-15:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "13:00-15:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "BARRIGA HOYLE, JAVIER"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "BARRIGA HOYLE, JAVIER"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "MORALES VILLANUEVA, AURELIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "NN"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "MORALES VILLANUEVA, AURELIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "MORALES VILLANUEVA, AURELIO"
+                    }
+                ],
+                "R": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 6,
+            "Codigo": "EE648",
+            "Nombre": "SISTEMAS DE CONTROL II                                                                          ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CARBONEL OLAZABAL, DANIEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CARBONEL OLAZABAL, DANIEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "MACHUCA MINES, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-220",
+                        "Profesor": "MACHUCA MINES, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CARBONEL OLAZABAL, DANIEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CARBONEL OLAZABAL, DANIEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE239",
+            "Nombre": "MEDIDAS ELECTRICAS II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE241",
+            "Nombre": "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN / FARFAN"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN / FARFAN"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE298",
+            "Nombre": "MÁQUINAS ELÉCTRICAS II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "19:00-22:00",
+                        "Aula": "QI-105",
+                        "Profesor": "ROJAS MIRANDA, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "ROJAS MIRANDA, LUIS"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "ROJAS MIRANDA, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "ROJAS MIRANDA, LUIS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE354",
+            "Nombre": "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "12:00-15:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "KOC RUEDA, JOSE ELMER"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "VILLAVICENCIO GASTELU, JOEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "17:00-20:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE467",
+            "Nombre": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "DIAZ ATAUCURI, DANIEL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE528",
+            "Nombre": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "PUICAN VERA, JOSE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L1",
+                        "Profesor": "PUICAN VERA, JOSE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE530",
+            "Nombre": "SISTEMAS DE COMUNICACIONES II                         ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "PERALTA ALFEREZ, FRANS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "FLORES ATOCHE, BEAU"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "PERALTA ALFEREZ, FRANS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "FLORES ATOCHE, BEAU"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "PERALTA ALFEREZ, FRANS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "CORDOVA BERNUY, VICTOR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "JIMENEZ HEREDIA ELADIO "
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "PERALTA ALFEREZ, FRANS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE532",
+            "Nombre": "ELECTRONICA DE POTENCIA                                                                ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "15:00-17:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "NUÑEZ CARRILLO, RICARDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-11:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "NUÑEZ CARRILLO, RICARDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "NUÑEZ CARRILLO, RICARDO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "8:00-11:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "TISZA CONTRERAS, JUAN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "TISZA CONTRERAS, JUAN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE590",
+            "Nombre": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "BELLEZA ZAMORA, EDUARDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "BELLEZA ZAMORA, EDUARDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "BELLEZA ZAMORA, EDUARDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "BELLEZA ZAMORA, EDUARDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "BELLEZA ZAMORA, EDUARDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB. L3",
+                        "Profesor": "BELLEZA ZAMORA, EDUARDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE644",
+            "Nombre": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "DIAZ ALIAGA, JULIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "DIAZ ALIAGA, JULIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "DIAZ ALIAGA, JULIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "BRICEÑO ARANDA, CESAR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "BRICEÑO ARANDA, CESAR"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "BRICEÑO ARANDA, CESAR"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "PISCOYA SILVA, ULISES"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "PISCOYA SILVA, ULISES"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "PISCOYA SILVA, ULISES"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 7,
+            "Codigo": "EE678",
+            "Nombre": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "CORDOVA BERNUY, VICTOR"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB. L2",
+                        "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "BEG06",
+            "Nombre": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "9:00-11:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "MONTES BAZALAR, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "11:00-13:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "MONTES BAZALAR, LUIS"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "DEGREGORI CADENILLAS, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "DEGREGORI CADENILLAS, LUIS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "EE242",
+            "Nombre": "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "ROJAS MIRANDA, LUIS"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "PUICAN VERA, JOSE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "EE375",
+            "Nombre": "ESTABILIDAD DE SISTEMAS DE POTENCIA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "19:00-22:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "RAMIREZ ARCELLES, ROBERTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "RAMIREZ ARCELLES, ROBERTO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "EE393",
+            "Nombre": "LINEAS DE TRANSMISION DE POTENCIA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "MORENO CUEVA, CESAR"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "MORENO CUEVA, CESAR"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "EE468",
+            "Nombre": "ELECTRÓNICA DE RADIOCOMUNICACIONES                                     ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "19:00-22:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "MENDOZA CARDENAS, FREDY"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "MENDOZA CARDENAS, FREDY"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "EE470",
+            "Nombre": "INSTALACIONES ELECTRICAS INDUSTRIALES                            ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-17:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "17:00-19:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 8,
+            "Codigo": "EE592",
+            "Nombre": "MICROONDAS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "ALVAREZ MONTOYA, JUAN"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "ALVAREZ MONTOYA, JUAN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 9,
+            "Codigo": "CIB54",
+            "Nombre": "GESTIÓN Y SEGURIDAD DE REDES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "NEYRA HERRERA, MIGUEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "NEYRA HERRERA, MIGUEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "MARTINEZ CHUNGA, RONALD"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "MARTINEZ CHUNGA, RONALD"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 9,
+            "Codigo": "EE445",
+            "Nombre": "PROYECTO FIN DE CARRERA (L2,L3)",
+            "Secciones": {
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "CARBONEL OLAZABAL, DANIEL"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "18:00-22:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "16:00-20:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "16:00-20:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+                    }
+                ],
+                "S": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "PISCOYA SILVA, ULISES"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "14:00-18:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "PISCOYA SILVA, ULISES"
+                    }
+                ],
+                "T": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "PARK TAE DONG"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "18:00-22:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "PARK TAE DONG"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 9,
+            "Codigo": "EE498",
+            "Nombre": "LABORATORIO DE RADIOCOMUNICACIONES                      ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "FLORES ATOCHE, BEAU"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L3",
+                        "Profesor": "FLORES ATOCHE, BEAU"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 9,
+            "Codigo": "EE676",
+            "Nombre": "CENTRALES ELÉCTRICAS I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "ANTARA ARIAS, RONAL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "AGUILAR QUIROZ, RICARDO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "ANTARA ARIAS, RONAL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "AGUILAR QUIROZ, RICARDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 9,
+            "Codigo": "EE698",
+            "Nombre": "LABORATORIO DE SISTEMAS ELECTRICOS DE POTENCIA ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "NN"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 10,
+            "Codigo": "EE446",
+            "Nombre": "PROYECTO DE TESIS (L2,L3)",
+            "Secciones": {
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "MEDINA RAMOS, CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-18:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "MEDINA RAMOS, CARLOS"
+                    }
+                ],
+                "Q": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "TRONCOSO CASTRO, PAUL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "17:00-21:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "DEGREGORI CADENILLAS, LUIS"
+                    }
+                ],
+                "R": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "18:00-22:00",
+                        "Aula": "Q1-203",
+                        "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+                    }
+                ],
+                "S": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "LOZANO SALAS, JULIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "16:00-20:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "LOZANO SALAS, JULIO"
+                    }
+                ],
+                "T": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "PARK TAE DONG"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "18:00-22:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "DIAZ ZEGARRA, JOSE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 10,
+            "Codigo": "EE712",
+            "Nombre": "PLANIFICACION DE REDES DE TELECOMUNICACIONES ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "MONTES BAZALAR, LUIS"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "MONTES BAZALAR, LUIS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "BMA20",
+            "Nombre": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VILLANUEVA, UWE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ROJAS VILLANUEVA, UWE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BENITEZ PALACIOS, JOSE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BENITEZ PALACIOS, JOSE"
+                    }
+                ],
+                "O": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    }
+                ],
+                "P": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "BRN93",
+            "Nombre": "REGULACION Y SUPERVISION DEL SECTOR ELECTRICO",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "12:00- 14:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "CIB02",
+            "Nombre": "INGENIERIA DE SOFTWARE                                                                 ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "CIB12",
+            "Nombre": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "CIB14",
+            "Nombre": "SISTEMAS OPERATIVOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "MENDOZA CARDENAS, FREDY"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-103",
+                        "Profesor": "MENDOZA CARDENAS, FREDY"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "CIB28",
+            "Nombre": "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GAMARRA QUISPE, SEGUNDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GAMARRA QUISPE, SEGUNDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE225",
+            "Nombre": "MÁQUINAS ELÉCTRICAS III",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE235",
+            "Nombre": "DISEÑO DE MÁQUINAS ELÉCTRICAS I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "13:00-16:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "CARRANZA AREVALO, MANUEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "BRAVO BASALDUA, JAMES"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE316",
+            "Nombre": "CENTRALES ELÉCTRICAS II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "10:00-13:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "ANTARA ARIAS, RONAL"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-205",
+                        "Profesor": "AGUILAR QUIROZ, RICARDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE336",
+            "Nombre": "INGENIERIA DE ALTA TENSION                                                                             ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-108",
+                        "Profesor": "YANQUE MONTUFAR, JUSTO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LAB L1",
+                        "Profesor": "YANQUE MONTUFAR, JUSTO / FARFAN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE344",
+            "Nombre": "INGENIERÍA DE ILUMINACIÓN",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CHACALIAZA HUAPAYA, LUIS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "CHACALIAZA HUAPAYA, LUIS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE346",
+            "Nombre": "INSTALACIONES ELÉCTRICAS II",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "HUAYLLASCO MONTALVA, CARLOS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "MORENO CUEVA, CESAR"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE360",
+            "Nombre": "GENERACIÓN DISTRIBUIDA Y REDES INTELIGENTES.",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "19:00-22:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE376",
+            "Nombre": "PROTECCIÓN DE SISTEMAS DE POTENCIA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "10;00-12;00",
+                        "Aula": "Q1-107",
+                        "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE385",
+            "Nombre": "VALUACION Y TARIFICACION DE LA ENERGIA ELECTRICA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-17:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE387",
+            "Nombre": "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "ZORRILLA ACOSTA, JOSE ALBERTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "ZORRILLA ACOSTA, JOSE ALBERTO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE469",
+            "Nombre": "ARQUITECTURA DE CENTROS DE DATOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BENITEZ PALACIOS, JOSE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BENITEZ PALACIOS, JOSE"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GARRO MOREY, ARTURO EDUARDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "GARRO MOREY, ARTURO EDUARDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE479",
+            "Nombre": "INSTRUMENTACIÓN Y EQUIPOS BIOMÉDICOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "GUILLEN  SARAVIA, LEOPOLDO FRANCISCO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "GUILLEN  SARAVIA, LEOPOLDO FRANCISCO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE508",
+            "Nombre": "INGENIERIA DE AUDIO Y VIDEO",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE548",
+            "Nombre": "REDES INALAMBRICAS Y MOVILES                                  ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "TRONCOSO CASTRO, PAUL"
+                    },
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "TRONCOSO CASTRO, PAUL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE585",
+            "Nombre": "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-102",
+                        "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "15:00-17:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE593",
+            "Nombre": "SISTEMAS DE RADIOCOMUNICACION                               ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-19:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "LOZANO SALAS, JULIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "19:00-21:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "LOZANO SALAS, JULIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE594",
+            "Nombre": "ANTENAS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE596",
+            "Nombre": "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE       ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE598",
+            "Nombre": "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES               ",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q-201",
+                        "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE621",
+            "Nombre": "CONTROLES ELECTRICOS Y AUTOMATIZACION",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "19:00-22:00",
+                        "Aula": "Q1-204",
+                        "Profesor": "AQUIZE PALACIOS, RUBEN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "AQUIZE PALACIOS, RUBEN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE658",
+            "Nombre": "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "SA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "Q1-201",
+                        "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE672",
+            "Nombre": "ROBOTICA INDUSTRIAL",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "8:00-10:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "GONZALES FIGUEROA, RENATO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-106",
+                        "Profesor": "GONZALES FIGUEROA, RENATO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "GONZALES FIGUEROA, RENATO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE679",
+            "Nombre": "SUBESTACIONES ELÉCTRICAS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-104",
+                        "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-107",
+                        "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE681",
+            "Nombre": "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "Q1-202",
+                        "Profesor": "MORALES VILLANUEVA, AURELIO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "VI",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "MORALES VILLANUEVA, AURELIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "VI",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "MORALES VILLANUEVA, AURELIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE689",
+            "Nombre": "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "BARRIGA HOYLE, JAVIER"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "LAB L2",
+                        "Profesor": "BARRIGA HOYLE, JAVIER"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE693",
+            "Nombre": "SISTEMAS MICROELECTRONICOS INTEGRADOS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "SA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-105",
+                        "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "SA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE704",
+            "Nombre": "ENERGÍAS RENOVABLES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "18:00-21:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "MIREZ TARRILLO, JORGE"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "JU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "Q1-101",
+                        "Profesor": "AMARO PINAZO, MAURO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE705",
+            "Nombre": "GENERACIÓN ELÉCTRICA CON ENERGIA SOLAR APLICADA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "20:00-22:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "ZAMALLOA LOPEZ ALFREDO"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "20:00-22:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "ZAMALLOA LOPEZ ALFREDO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE708",
+            "Nombre": "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-207",
+                        "Profesor": "TRONCOSO CASTRO, PAUL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE718",
+            "Nombre": "SISTEMAS DE CONTROL AVANZADO",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "MACHUCA MINES, JOSE"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MI",
+                        "Hora": "18:00-20:00",
+                        "Aula": "Q1-206",
+                        "Profesor": "MACHUCA MINES, JOSE"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "IP101",
+            "Nombre": "INGLES PROFESIONAL I",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "14:00-16:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
+                    }
+                ],
+                "N": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "VI",
+                        "Hora": "16:00-18:00",
+                        "Aula": "AUDITORIO",
+                        "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "IT557",
+            "Nombre": "TÓPICOS ESPECIALES",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "14:00-16:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "MA",
+                        "Hora": "16:00-18:00",
+                        "Aula": "Q1-208",
+                        "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "BMA25",
+            "Nombre": "CRIPTOANALISIS",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "MA",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "MA",
+                        "Hora": "12:00-14:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "CIB06",
+            "Nombre": "SEGURIDAD DE APLICACIÓN WEB",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "LU",
+                        "Hora": "8:00-10:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    },
+                    {
+                        "Tipo": "L",
+                        "Dia": "LU",
+                        "Hora": "10:00-12:00",
+                        "Aula": "LIFIEE",
+                        "Profesor": "NN"
+                    }
+                ]
+            }
+        },
+        {
+            "Ciclo": 11,
+            "Codigo": "EE349",
+            "Nombre": "GESTION DE ENERGIA",
+            "Secciones": {
+                "M": [
+                    {
+                        "Tipo": "T",
+                        "Dia": "JU",
+                        "Hora": "17:00-19:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+                    },
+                    {
+                        "Tipo": "P",
+                        "Dia": "JU",
+                        "Hora": "19:00-21:00",
+                        "Aula": "VIRTUAL",
+                        "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+                    }
+                ]
+            }
+        }
+    ]
+}

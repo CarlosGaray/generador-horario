@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Generador de Horarios</title>
+  <link rel="stylesheet" href="./css/main.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
+  <link rel="stylesheet" href="./css/chips.css" />
+  <link rel="stylesheet" href="./css/schedule.css" />
+
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+  <span id="up"></span>
+  <div class="panel-table">
+    <div class="box-panel-1">
+      <table id="example" class="display" style="width:100%">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Ciclo</th>
+            <th>Codigo</th>
+            <th>Nombre</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+    <div class="box-panel-2">
+    </div>
+    <div class="box-panel-3">
+      <button class="button" id="generate">GENERAR HORARIO</button>
+    </div>
+    <div class="box-panel-4">
+      <button class="pdf" id="pdf_generate"><i class="fa fa-file-pdf-o" style="color:white;"></i></button>
+    </div>
+    <div class="box-panel-5">
+      <section id="schedule-group">
+        <div id="dp" class="calendar_main" style="
+                position: relative;
+                width: 100%;
+                visibility: visible;
+                cursor: move;
+              ">
+          <div style="overflow: auto">
+            <table cellpadding="0" cellspacing="0" border="0" style="
+                    width: 100%;
+                    border-collapse: separate;
+                    border: 0px none;
+                  ">
+              <tbody>
+                <tr>
+                  <td style="padding: 0px; border: 0px none">
+                    <div class="calendar_corner" style="
+                            position: relative;
+                            width: 60px;
+                            height: 30px;
+                          ">
+                      <div class="calendar_corner_inner"></div>
+                    </div>
+                  </td>
+                  <td style="
+                          width: 100%;
+                          position: relative;
+                          padding: 0px;
+                          border: 0px none;
+                        ">
+                    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="table-layout: fixed">
+                      <tbody>
+                        <tr>
+                          <td style="
+                                  overflow: hidden;
+                                  padding: 0px;
+                                  border: 0px none;
+                                  height: 30px;
+                                ">
+                            <div class="calendar_colheader" style="
+                                    cursor: default;
+                                    position: relative;
+                                    height: 30px;
+                                  ">
+                              <div class="calendar_colheader_inner">
+                                Lunes
+                              </div>
+                            </div>
+                          </td>
+                          <td style="
+                                  overflow: hidden;
+                                  padding: 0px;
+                                  border: 0px none;
+                                  height: 30px;
+                                ">
+                            <div class="calendar_colheader" style="
+                                    cursor: default;
+                                    position: relative;
+                                    height: 30px;
+                                  ">
+                              <div class="calendar_colheader_inner">
+                                Martes
+                              </div>
+                            </div>
+                          </td>
+                          <td style="
+                                  overflow: hidden;
+                                  padding: 0px;
+                                  border: 0px none;
+                                  height: 30px;
+                                ">
+                            <div class="calendar_colheader" style="
+                                    cursor: default;
+                                    position: relative;
+                                    height: 30px;
+                                  ">
+                              <div class="calendar_colheader_inner">
+                                Miércoles
+                              </div>
+                            </div>
+                          </td>
+                          <td style="
+                                  overflow: hidden;
+                                  padding: 0px;
+                                  border: 0px none;
+                                  height: 30px;
+                                ">
+                            <div class="calendar_colheader" style="
+                                    cursor: default;
+                                    position: relative;
+                                    height: 30px;
+                                  ">
+                              <div class="calendar_colheader_inner">
+                                Jueves
+                              </div>
+                            </div>
+                          </td>
+                          <td style="
+                                  overflow: hidden;
+                                  padding: 0px;
+                                  border: 0px none;
+                                  height: 30px;
+                                ">
+                            <div class="calendar_colheader" style="
+                                    cursor: default;
+                                    position: relative;
+                                    height: 30px;
+                                  ">
+                              <div class="calendar_colheader_inner">
+                                Viernes
+                              </div>
+                            </div>
+                          </td>
+                          <td style="
+                                  overflow: hidden;
+                                  padding: 0px;
+                                  border: 0px none;
+                                  height: 30px;
+                                ">
+                            <div class="calendar_colheader" style="
+                                    cursor: default;
+                                    position: relative;
+                                    height: 30px;
+                                  ">
+                              <div class="calendar_colheader_inner">
+                                Sábado
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td>
+                    <div class="calendar_cornerright" style="
+                            position: relative;
+                            width: 0px;
+                            height: 30px;
+                          ">
+                      <div class="calendar_cornerright_inner"></div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div id="content_schelude_main" style="
+                  position: relative;
+                  zoom: 1;
+                ">
+            <div style="zoom: 1; position: relative">
+              <table cellspacing="0" cellpadding="0" border="0" style="
+                      border: 0px none;
+                      width: 100%;
+                      position: absolute;
+                    ">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0px; border: 0px none">
+                      <table cellspacing="0" cellpadding="0" border="0" style="border: 0px none; width: 60px">
+                        <tbody id="hours"></tbody>
+                      </table>
+                    </td>
+                    <td width="100%" style="padding: 0px; border: 0px none">
+                      <div id="body_father_cell" style="position: relative">
+                        <table cellpadding="0" cellspacing="0" border="0" border="0" style="
+                                width: 100%;
+                                border: 0px none;
+                                table-layout: fixed;
+                              ">
+                          <tbody id="body_cell"></tbody>
+                        </table>
+                        <table cellpadding="0" cellspacing="0" border="0" style="
+                                top: 0px;
+                                position: absolute;
+                                width: 100%;
+                                border: 0px none;
+                                table-layout: fixed;
+                              ">
+                          <tbody>
+                            <tr class="paint_cell paint_first"></tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+    integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="./scripts/table.js"></script>
+  <script src="./scripts/generate.js"></script>
+</body>
+
+</html>
