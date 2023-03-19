@@ -69,7 +69,6 @@ generateButtom.addEventListener("click", (event) => {
   //     }
   //   });
   // console.log(newArraySelect);
-  console.log(newNameSelect);
   // console.log(arrayColors);
   generateSchedule(newArraySelect, arrayColors);
 });
@@ -355,7 +354,7 @@ function crearLineaCursos(arrCursos, dataTable) {
 
 function generateSchedule(lineaDeEntrada, arrayColors) {
   fetch(
-    "./../JSON/horario.json"
+    "https://carlosgaray.github.io/generador-horario/JSON/horario.json"
   )
     .then((response) => response.json())
     .then((json) => {
