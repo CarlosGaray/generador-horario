@@ -60,7 +60,7 @@ const format = (d, c) => {
 $(document).ready(() => {
   const table = $("#example").DataTable({
     ajax: {
-      url: "./../JSON/horario.json",
+      url: "https://carlosgaray.github.io/generador-horario/JSON/horario.json/../JSON/horario.json",
       dataSrc: function (json) {
         return json.GoogleSheetData;
       },
